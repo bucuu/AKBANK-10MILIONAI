@@ -88,5 +88,7 @@ Bu sonuçları göz önünde bulundurarak, model performansını artırmak için
 
 Kaggle notebook link: 
 [https://www.kaggle.com/code/burcuorhan19/akbank-derin-renme-bootcamp](url)
+
+https://www.kaggle.com/code/burcuorhan19/akbank-derin-renme-bootcamp
  
 
